@@ -8,6 +8,7 @@ Uma refinaria produz dois tipos de combustíveis, X e Y, que precisam ser trabal
 Nessas condições, resolva os itens a seguir:
 
 a) Escreva o problema de pesquisa operacional associado à situação descrita, considerando a obtenção da maior margem de contribuição com a produção dos combustíveis.
+#
 b) Use o método gráfico e determine a quantidade ótima dos combustíveis X e Y a serem produzidos por turno.
 c) Use o Solver do Excel e determine a quantidade ótima dos combustíveis X e Y a serem produzidos por turno.
 d) Com base no resultado obtido em (b) e (c), qual é a maior margem de contribuição, em reais, obtida com a produção dos dois combustíveis em um turno de trabalho?
